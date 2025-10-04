@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "Todo App",
+  "short_name": "Todos",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone"],
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#667eea",
+  "description": "Fast, offline-capable todo list.",
+  "icons": []
+}
+
+
